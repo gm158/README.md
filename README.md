@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    "I believe that challenges inspire innovation and transform ideas into reality."
+    "Driven by curiosity, powered by code, and inspired by endless possibilities."
   </em>
 </p>
 
