@@ -1,5 +1,3 @@
-# 🌸 Gracia May J. Alpez
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello%2C+Welcome+to+My+Profile!;I'm+Gracia+May+J.+Alpez;Computer+Science+Student;Aspiring+Software+Developer;Learning%2C+Coding%2C+and+Creating!" alt="Typing SVG" />
 </h1>
