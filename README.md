@@ -102,8 +102,8 @@ I believe every project is an opportunity to learn something new, improve my ski
     <img src="https://img.shields.io/badge/GitHub-gm158-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://www.facebook.com/share/1CECwUyAoQ/" />
+  <a href="https://www.facebook.com/share/1CECwUyAoQ/">
+    <img src="https://img.shields.io/badge/Facebook-Connect%20With%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
   
