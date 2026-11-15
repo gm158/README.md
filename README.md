@@ -17,6 +17,15 @@
   </em>
 </p>
 
+🛠️ TECHNOLOGIES I'M EXPLORING
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,typescript,git,github,vscode" />
+</p>
+
+<p align="center">
+  <em>Continuously learning and improving my programming skills.</em>
+</p>
 ---
 
 <h2 align="center">💫 About Me</h2>
@@ -33,13 +42,5 @@ Interests:
 Goal:
   Become a skilled developer and build impactful solutions.
 
-🛠️ TECHNOLOGIES I'M EXPLORING
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,typescript,git,github,vscode" />
-</p>
-
-<p align="center">
-  <em>Continuously learning and improving my programming skills.</em>
-</p>
 
