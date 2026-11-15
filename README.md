@@ -26,6 +26,12 @@
 <p align="center">
   <em>Continuously learning and improving my programming skills.</em>
 </p>
+
+🎯 MY GOAL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GOAL-Become_a_Skilled_Developer-FF69B4?style=for-the-badge" />
+</p>
 ---
 
 <h2 align="center">💫 About Me</h2>
