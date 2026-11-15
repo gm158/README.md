@@ -36,6 +36,17 @@
 <p align="center">
   To build useful, creative, and user-friendly applications while continuously growing as a Computer Science student and future software developer.
 </p>
+
+📊 GITHUB STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gm158&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=00C9D8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gm158&layout=compact&theme=radical&hide_border=true&title_color=FF69B4" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gm158&theme=radical&hide_border=true&ring=FF69B4&fire=FFB703&currStreakLabel=00C9D8" width="65%" />
+</p>
 ---
 
 <h2 align="center">💫 About Me</h2>
