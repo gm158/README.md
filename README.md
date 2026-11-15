@@ -32,6 +32,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GOAL-Become_a_Skilled_Developer-FF69B4?style=for-the-badge" />
 </p>
+
+<p align="center">
+  To build useful, creative, and user-friendly applications while continuously growing as a Computer Science student and future software developer.
+</p>
 ---
 
 <h2 align="center">💫 About Me</h2>
