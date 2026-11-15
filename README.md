@@ -47,6 +47,26 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gm158&theme=radical&hide_border=true&ring=FF69B4&fire=FFB703&currStreakLabel=00C9D8" width="65%" />
 </p>
+
+🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/gm158">
+    <img src="https://img.shields.io/badge/GitHub-gm158-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Thanks for visiting my profile! Feel free to explore my repositories.</em>
+</p>
+
+<h3 align="center">
+  💗 Keep Learning. Keep Building. Keep Growing. 💗
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
 ---
 
 <h2 align="center">💫 About Me</h2>
